@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// function to check leap year
 bool isLeap(int y){
     return (y%4==0 and y%100!=0 or y%400==0);
      

@@ -10,8 +10,8 @@ int main() {
     int year;
     cin>>year;
     if(isLeap(year))
-        cout<<"YES\n";
+        cout<<"YES \n";
     else
-        cout<<"NO\n";
+        cout<<"NO \n";
     return 0;
 }
